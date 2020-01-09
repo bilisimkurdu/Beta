@@ -1,0 +1,7 @@
+a.sl-button {border-bottom: 0 !important;text-decoration: none !important;}
+.sl-button {font-size: 1em;line-height: 1;font-weight: normal;}
+a.liked {color: #da1b1b;}
+a.unliked:hover i:before {content: "";}
+a.liked:hover i:before {content: "";}
+.sl-icon {margin-right: .3125em;}
+.sl-count {text-transform: uppercase;font-size: 13px;font-weight: 700;}
