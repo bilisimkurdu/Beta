@@ -18,7 +18,7 @@ name: Bilişim Kurdu Beta
 description: 
   This is a blog of someone passionate about technology who wants to share some of the things he knows
   about Application Development, Integration, Cloud, Big Data and Digital Transformation
-baseurl: "/Beta" # the subpath of your site, e.g. /blog
+baseurl: "/Beta/" # the subpath of your site, e.g. /blog
 github_username:  bilisimkurdu
 
 # jekyll-paginate configuration
