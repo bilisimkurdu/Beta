@@ -11,9 +11,20 @@ layout: post
 link: >
   http://localhost/bilisimkurdu/temel-ve-dinamik-diskler-arasindaki-farklar/
 published: true
-tags: [ ]
+tags:
+  - Basic
+  - Basic Disk
+  - Basit Disk
+  - Basit Disk Ile Dinamik Disk Farkları
+  - Dinamik
+  - Dinamik Disk
+  - Disk
+  - Dynamic
+  - Dynamic Disk
+  - Temel
 categories:
-  - Genel
+  - Donanım
+  - PC
 ---
 <!-- wp:paragraph -->
 <p>Merhaba Muhterem Ziyaretçiler,</p>
